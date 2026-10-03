@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there, I'm Sultanali Duissebayev 👋
 
-<!--
-**sultanali-duissebayev/sultanali-duissebayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring machine learning and software engineer passionate about algorithmic problem-solving and building real-world tools that make an impact.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Doing Right Now
+* 🧠 Sharpening my algorithmic thinking through **NeetCode in C++**.
+* 🤖 Expanding my skillset by taking the **Kaggle Machine Learning course** using **Python**..
+
+---
+
+### 🛠️ Core Tech Stack
+* **Languages:** C++, Python, Java, JavaScript, HTML, CSS
+* **Tools & Platforms:** Android Studio, Git, GitHub
+
+---
+
+### 📫 Connect With Me
+* **LinkedIn:** [Let's connect](https://www.linkedin.com/in/sultanali-duissebayev-9a0902425/)
+
